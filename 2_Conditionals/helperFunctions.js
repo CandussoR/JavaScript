@@ -26,6 +26,6 @@ const addVTAString = (rows, columns) => {
 }
 addVTAString(5, 4);
 
-//Use of refactored arrow syntax.
+//Use of refactored arrow syntax (concice body).
 const squareNum = num => num ** 2;
 console.log(squareNum(8));
